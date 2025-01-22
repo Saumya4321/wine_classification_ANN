@@ -1,7 +1,7 @@
 # Determine the origin of Wines using ANN
 
 ## Objective
-Use ANN on data obtained by chemical analysis to determine the origin of wines
+Use ANN on data obtained by chemical analysis to determine the origin of wines. The wines are classified as from either of the three cultivars in Italy.
 
 ## Dataset used
 
@@ -23,3 +23,4 @@ The attributes are -
 11) Hue
 12) OD280/OD315 of diluted wines
 13) Proline
+
