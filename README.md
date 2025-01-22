@@ -1,7 +1,7 @@
 # Determine the origin of Wines using ANN
 
 ## Objective
-Use ANN on data obtained by chemical analysis to determine the origin of wines. The wines are classified as from either of the three cultivars in Italy.
+Develop an Artificial Neural Network (ANN) to classify the origin of wines based on chemical analysis data, distinguishing among three distinct cultivars from Italy.
 
 ## Dataset used
 
