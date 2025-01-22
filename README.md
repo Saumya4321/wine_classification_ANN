@@ -1,5 +1,7 @@
 # Determine the origin of Wines using ANN
 
+## Objective
+Use ANN on data obtained by chemical analysis to determine the origin of wines
 
 ## Dataset used
 
