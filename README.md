@@ -1,7 +1,7 @@
-# Determine the origin of Wines using ANN
+# Determine the origin of Wines using FNN
 
 ## Objective
-Develop an Artificial Neural Network (ANN) to classify the origin of wines based on chemical analysis data, distinguishing among three distinct cultivars from Italy.
+Develop an Feed forward Neural network (FNN) to classify the origin of wines based on chemical analysis data, distinguishing among three distinct cultivars from Italy.
 Given the values of 13 chemical constituents of a sample wine, the goal is to distinguish from which of the three cultivars it is from.
 
 ## Dataset used
