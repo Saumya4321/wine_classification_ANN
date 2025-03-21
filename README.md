@@ -1,8 +1,14 @@
 # Determine the origin of Wines using FNN
 
 ## Objective
-Develop an Feed forward Neural network (FNN) to classify the origin of wines based on chemical analysis data, distinguishing among three distinct cultivars from Italy.
+Develop a Feed forward Neural network (FNN) to classify the origin of wines based on chemical analysis data, distinguishing among three distinct cultivars from Italy.
 Given the values of 13 chemical constituents of a sample wine, the goal is to distinguish from which of the three cultivars it is from.
+
+## Tasks done
++ Preprocessing of the dataset, including normalization and train-test splitting.
++ Implementation of an Artificial Neural Network (ANN) using Keras.
++ Model training with appropriate loss functions and optimization techniques.
++ Performance evaluation using accuracy and loss metrics.
 
 ## Dataset used
 
@@ -24,6 +30,9 @@ The attributes are -
 11) Hue
 12) OD280/OD315 of diluted wines
 13) Proline
+
+## Results
+The trained ANN model achieves a competitive accuracy in classifying wine samples based on their features.
 
 
 
