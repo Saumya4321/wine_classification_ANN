@@ -12,7 +12,6 @@ The analysis determined the quantities of 13 constituents found in each of the t
 
 The attributes are -
 <table border="0">
-
  <tr>
     <td>1) Alcohol
 2) Malic acid
