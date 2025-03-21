@@ -33,9 +33,10 @@ The attributes are -
 
 ## Results
 The trained ANN model achieves a competitive accuracy in classifying wine samples based on their features.
+<div align="center">
 ![image](https://github.com/user-attachments/assets/c17bb5e4-d2e8-4480-ac61-8d670c94d559)
 
 ![image](https://github.com/user-attachments/assets/91bf248b-573b-4052-b14b-a29db0210c11)
 
-
+</div>
 
