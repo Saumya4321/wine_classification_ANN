@@ -31,6 +31,20 @@ The attributes are -
 12) OD280/OD315 of diluted wines
 13) Proline
 
+## Code usage
+1. Clone the repository
+```
+git clone https://github.com/Saumya4321/wine_classification_ANN.git
+cd wine_classification_ANN
+
+```
+3. Install all the required python modules by running the following command
+  ```
+pip install -r requirements.txt
+
+```
+5. Run the ```ANN_wine_classification.ipynb``` notebook to train and evaluate the model. Adjust hyperparameters as needed for better performance.
+
 ## Results
 The trained ANN model achieves a competitive accuracy in classifying wine samples based on their features.
 <div align="center">
