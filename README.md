@@ -32,7 +32,7 @@ The attributes are -
 13) Proline
 
 ## Model architecture
-The 13 features are fed as input to the model after normalization. The model consists of 3 dense layers - two hidden dense layers of size 32, 64 respectively and the output dense layer having two nodes representing the two output classes. ReLU activation in used in the hidden layers and Softmax is used for the final output layer.
+The 13 features are fed as input after normalization. The model has three dense layers: two hidden layers with 32 and 64 neurons, using ReLU activation, and an output layer with three nodes and Softmax activation for classification. The model is compiled with the Adam optimizer (learning rate set to default of 0.001), categorical cross-entropy loss, and evaluated using accuracy. It is trained for 30 epochs with a batch size of 16.
 
 
 ## Code usage
