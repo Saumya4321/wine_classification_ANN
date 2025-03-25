@@ -31,6 +31,10 @@ The attributes are -
 12) OD280/OD315 of diluted wines
 13) Proline
 
+## Model architecture
+The 13 features are fed as input to the model after normalization. The model consists of 3 dense layers - two hidden dense layers of size 32, 64 respectively and the output dense layer having two nodes representing the two output classes. ReLU activation in used in the hidden layers and Softmax is used for the final output layer.
+
+
 ## Code usage
 1. Clone the repository
 ```
